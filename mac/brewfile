@@ -1,0 +1,22 @@
+# run with brew bundle --file ./brewfile
+# Formulae
+brew "neovim"
+brew "git"
+brew "ripgrep"
+brew "gcc"
+brew "make"
+brew "unzip"
+brew "fzf"
+brew "fd"
+brew "tree"
+brew "tmux"
+brew "zoxide"
+brew "zsh"
+brew "bat"
+
+# Casks
+cask "alacritty"
+cask "firefox"
+cask "obsidian"
+cask "font-jetbrains-mono-nerd-font"
+

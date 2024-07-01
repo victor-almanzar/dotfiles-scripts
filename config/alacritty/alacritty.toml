@@ -1,0 +1,20 @@
+import = [
+    "~/.config/alacritty/themes/catppuccin_mocha.toml"
+]
+
+[env]
+term = "xterm-256color"
+
+[font]
+normal = { family = "JetBrainsMonoNL Nerd Font", style = "Regular" }
+size = 16
+
+[window]
+opacity = 0.85
+blur = true
+
+[bell]
+animation = "Linear"
+duration = 200
+color = "#f5e0dc"
+
